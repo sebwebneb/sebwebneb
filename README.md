@@ -8,11 +8,9 @@ But honestly, making the cheat is thrilling too. That first time your driver goe
 I am a 15-year-old researcher currently active as a junior analyst for Epic Games through HackerOne. Since I don't have access to the massive telemetry data yet, I stay on the frontline. I spend my time lifting virtualized blocks from EAC into Unicorn Engine to see what the instructions are actually doing as this is part of what I need to do to find vulnerabilities. I am deep into analyzing NMI stack walking and dumping P2C loaders. I also make it a point to identify the fraudulent Stripe and PayPal accounts these vendors use for money laundering.
 
 ### The Path
-My goal is the Vanguard team at Riot. I want to be around the engineering that actually pushes Windows internals to the limit.
+I want to be around the engineering that actually pushes Windows internals to the limit.
 Until then, I am just documenting my research and reversing "private" loaders for the hell of it.
 Soon, I plan to start dumping Valorant cheats so I can help Vanguard for fun while I help EAC.
-
-*"Imagine paying $50 a month for a cheat I dumped in 10 minutes for free."*
 
 ### Links
 * **Blog:** [sebwebneb.dev](https://sebwebneb.dev)
