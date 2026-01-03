@@ -4,11 +4,6 @@ I look at game security from both perspectives. Without cheats, there wouldn't b
 
 But honestly, making the cheat is thrilling too. That first time your driver goes undetected after all the hours you put in? You'll never feel that again. On the flip side, anti-cheat work gives you constant wins: seeing those detection logs roll in, always having new loaders to reverse, and new detection methods to create. Most people hate the cat-and-mouse aspect of anti-cheat, but honestly that is exactly why I'm into it. There is always something to tear apart and counter.
 
-### The Path
-I want to be around the engineering that actually pushes Windows internals to the limit.
-Until then, I am just documenting my research and reversing "private" loaders for the hell of it.
-Soon, I plan to start dumping Valorant cheats so I can help Vanguard for fun while I help EAC.
-
 ### Links
 * **Blog:** [sebwebneb.dev](https://sebwebneb.dev)
 * **HackerOne:** [sebwebneb](https://hackerone.com/sebwebneb)
